@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 228ca028a5a70464daf01b55abac82c2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 2667799643403491787
+    second: Tiger|Take 001_Bip01 Footsteps
+  - first:
+      74: -719857302906969688
+    second: Tiger|Take 001_Bip01 HeadNub
+  - first:
+      74: -6679230170608157777
+    second: Tiger|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -7947675096612051150
+    second: Tiger|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: -920962024786482200
+    second: Tiger|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -1081324189189864192
+    second: Tiger|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 9047110248433145323
+    second: Tiger|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: -3484530670500957437
+    second: Tiger|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -5380210561285135571
+    second: Tiger|Take 001_Bip01 TailNub
+  - first:
+      74: -6473519204039487837
+    second: Tiger|Take 001_Tiger
+  - first:
+      74: 8655890772214843230
+    second: Tiger|Take 001_tiger 1
+  - first:
+      74: -997500852404364629
+    second: Tiger|Take 001_Tiger(0)
+  - first:
+      74: 2363351828995434713
+    second: Tiger(0)|Take 001_Bip01 Footsteps
+  - first:
+      74: -2794857863127826763
+    second: Tiger(0)|Take 001_Bip01 HeadNub
+  - first:
+      74: -553527736606132192
+    second: Tiger(0)|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 4396476880027645062
+    second: Tiger(0)|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 5699882235679438332
+    second: Tiger(0)|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -6506055560486023181
+    second: Tiger(0)|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 7682675755052522469
+    second: Tiger(0)|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 3288745828412889324
+    second: Tiger(0)|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 7319347754596358121
+    second: Tiger(0)|Take 001_Bip01 TailNub
+  - first:
+      74: -3799609393873540621
+    second: Tiger(0)|Take 001_Tiger
+  - first:
+      74: 437199988812633619
+    second: Tiger(0)|Take 001_tiger 1
+  - first:
+      74: -7686037291525205096
+    second: Tiger(0)|Take 001_Tiger(0)
+  - first:
+      74: -8244561461047484981
+    second: Bip01|Take 001_Bip01
+  - first:
+      74: 562326642192331025
+    second: Bip01|Take 001_Bip01 Footsteps
+  - first:
+      74: 5697668928824506852
+    second: Bip01|Take 001_Bip01 HeadNub
+  - first:
+      74: 987828592311043407
+    second: Bip01|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 252869785456007273
+    second: Bip01|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 7955333424605152632
+    second: Bip01|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 4339117755925519161
+    second: Bip01|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -4796766989528699096
+    second: Bip01|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 7676178792517452991
+    second: Bip01|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -1678931869831709310
+    second: Bip01|Take 001_Bip01 TailNub
+  - first:
+      74: 6159471247967551578
+    second: Bip01|Take 001_Tiger
+  - first:
+      74: -185320897342064434
+    second: Bip01|Take 001_tiger 1
+  - first:
+      74: 541193384982562933
+    second: Bip01|Take 001_Tiger(0)
+  - first:
+      74: 2492466429925572189
+    second: Bip01 Footsteps|Take 001_Bip01 Footsteps
+  - first:
+      74: -841215543299417943
+    second: Bip01 Footsteps|Take 001_Bip01 HeadNub
+  - first:
+      74: -6374513975825486909
+    second: Bip01 Footsteps|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -3890039327330946933
+    second: Bip01 Footsteps|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 3131270462970757472
+    second: Bip01 Footsteps|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -2193497014019624112
+    second: Bip01 Footsteps|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -8921224107174379865
+    second: Bip01 Footsteps|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: -858971079962798180
+    second: Bip01 Footsteps|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -7725766738857401521
+    second: Bip01 Footsteps|Take 001_Bip01 TailNub
+  - first:
+      74: 8766453117639762449
+    second: Bip01 Footsteps|Take 001_Tiger
+  - first:
+      74: -817847655647747307
+    second: Bip01 Footsteps|Take 001_tiger 1
+  - first:
+      74: 15621835793575176
+    second: Bip01 Footsteps|Take 001_Tiger(0)
+  - first:
+      74: -2460652257473509773
+    second: Bip01 L Toe0Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: 6315609497585192367
+    second: Bip01 L Toe0Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: 3330605720309666432
+    second: Bip01 L Toe0Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -4089148328081246234
+    second: Bip01 L Toe0Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: -2426172488576142391
+    second: Bip01 L Toe0Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 3018127582900003989
+    second: Bip01 L Toe0Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -1083622630755881117
+    second: Bip01 L Toe0Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 8442726038299469441
+    second: Bip01 L Toe0Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 4385080257291088720
+    second: Bip01 L Toe0Nub|Take 001_Bip01 TailNub
+  - first:
+      74: 445207116921070919
+    second: Bip01 L Toe0Nub|Take 001_Tiger
+  - first:
+      74: 3392666258897564541
+    second: Bip01 L Toe0Nub|Take 001_tiger 1
+  - first:
+      74: 3800207991376202088
+    second: Bip01 L Toe0Nub|Take 001_Tiger(0)
+  - first:
+      74: -4215020364649909421
+    second: Bip01 R Toe0Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: 5359332482796807951
+    second: Bip01 R Toe0Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: 870790530766118198
+    second: Bip01 R Toe0Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -5653514987044796185
+    second: Bip01 R Toe0Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 5956451274359948377
+    second: Bip01 R Toe0Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -7779185245925200379
+    second: Bip01 R Toe0Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -2940043592703918839
+    second: Bip01 R Toe0Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 8851402015806198559
+    second: Bip01 R Toe0Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 14344821083725184
+    second: Bip01 R Toe0Nub|Take 001_Bip01 TailNub
+  - first:
+      74: -7140495803011374971
+    second: Bip01 R Toe0Nub|Take 001_Tiger
+  - first:
+      74: 3357217858002505369
+    second: Bip01 R Toe0Nub|Take 001_tiger 1
+  - first:
+      74: 5401733903613199868
+    second: Bip01 R Toe0Nub|Take 001_Tiger(0)
+  - first:
+      74: 4681806948861563266
+    second: Bip01 HeadNub|Take 001_Bip01 Footsteps
+  - first:
+      74: -3572707037205220669
+    second: Bip01 HeadNub|Take 001_Bip01 HeadNub
+  - first:
+      74: 6353752590949284141
+    second: Bip01 HeadNub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 270413412446594098
+    second: Bip01 HeadNub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 8380789848945526809
+    second: Bip01 HeadNub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -4811655068553495183
+    second: Bip01 HeadNub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -3598980436837152637
+    second: Bip01 HeadNub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 7814496165552336088
+    second: Bip01 HeadNub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 5407621132718699815
+    second: Bip01 HeadNub|Take 001_Bip01 TailNub
+  - first:
+      74: -2025491178393780981
+    second: Bip01 HeadNub|Take 001_Tiger
+  - first:
+      74: 8863977006419050801
+    second: Bip01 HeadNub|Take 001_tiger 1
+  - first:
+      74: -5682824786791621030
+    second: Bip01 HeadNub|Take 001_Tiger(0)
+  - first:
+      74: -2878292346784686954
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: 4855611711463571498
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: 2092308062220038417
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 530938603242121615
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: -91466742124327858
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 4505182831605386335
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 2179896167305413782
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 5166736264833586183
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -2085121841930631281
+    second: Bip01 Ponytail1Nub|Take 001_Bip01 TailNub
+  - first:
+      74: 8974707436692593374
+    second: Bip01 Ponytail1Nub|Take 001_Tiger
+  - first:
+      74: 6980940738298980151
+    second: Bip01 Ponytail1Nub|Take 001_tiger 1
+  - first:
+      74: 785903697194579307
+    second: Bip01 Ponytail1Nub|Take 001_Tiger(0)
+  - first:
+      74: -6042131450315928601
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: -6131603658450269917
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: -9060834463185867164
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -255268784943291298
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 5818474687425398473
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -360413883272961972
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 3185304195760620873
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 106876976935504788
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 7281699060634069871
+    second: Bip01 Ponytail2Nub|Take 001_Bip01 TailNub
+  - first:
+      74: 1199871444270907902
+    second: Bip01 Ponytail2Nub|Take 001_Tiger
+  - first:
+      74: 2065214533890571281
+    second: Bip01 Ponytail2Nub|Take 001_tiger 1
+  - first:
+      74: 4398917343075329718
+    second: Bip01 Ponytail2Nub|Take 001_Tiger(0)
+  - first:
+      74: -5806847303842712236
+    second: Bip01 L Finger0Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: -383204312418204788
+    second: Bip01 L Finger0Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: -6658624790844214740
+    second: Bip01 L Finger0Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -6907986795647241468
+    second: Bip01 L Finger0Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 7783147462306162222
+    second: Bip01 L Finger0Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 2825159561163680635
+    second: Bip01 L Finger0Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 6176759166183815294
+    second: Bip01 L Finger0Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: -4730170798035264097
+    second: Bip01 L Finger0Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -1857501061178104298
+    second: Bip01 L Finger0Nub|Take 001_Bip01 TailNub
+  - first:
+      74: 382091425997658511
+    second: Bip01 L Finger0Nub|Take 001_Tiger
+  - first:
+      74: -6917032370459647327
+    second: Bip01 L Finger0Nub|Take 001_tiger 1
+  - first:
+      74: -2679835813338952442
+    second: Bip01 L Finger0Nub|Take 001_Tiger(0)
+  - first:
+      74: -7635134240381760949
+    second: Bip01 R Finger0Nub|Take 001_Bip01 Footsteps
+  - first:
+      74: -6510428759798978256
+    second: Bip01 R Finger0Nub|Take 001_Bip01 HeadNub
+  - first:
+      74: 283493252187935783
+    second: Bip01 R Finger0Nub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: -9134350794466982747
+    second: Bip01 R Finger0Nub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: -6878136604581834634
+    second: Bip01 R Finger0Nub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 1634730655224847489
+    second: Bip01 R Finger0Nub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -5693937551757426408
+    second: Bip01 R Finger0Nub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: 1958550886051426918
+    second: Bip01 R Finger0Nub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: -5611961474859484022
+    second: Bip01 R Finger0Nub|Take 001_Bip01 TailNub
+  - first:
+      74: 4131098563968479957
+    second: Bip01 R Finger0Nub|Take 001_Tiger
+  - first:
+      74: 5167133413628281280
+    second: Bip01 R Finger0Nub|Take 001_tiger 1
+  - first:
+      74: -957334690303540321
+    second: Bip01 R Finger0Nub|Take 001_Tiger(0)
+  - first:
+      74: 1188270589510698987
+    second: Bip01 TailNub|Take 001_Bip01 Footsteps
+  - first:
+      74: -6418973034813474476
+    second: Bip01 TailNub|Take 001_Bip01 HeadNub
+  - first:
+      74: 4413973896353514272
+    second: Bip01 TailNub|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 7749421264245280822
+    second: Bip01 TailNub|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: 919695866265164845
+    second: Bip01 TailNub|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: 938450198610452567
+    second: Bip01 TailNub|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: 4029111314987890096
+    second: Bip01 TailNub|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: -8216539458666969422
+    second: Bip01 TailNub|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 7133219848740966034
+    second: Bip01 TailNub|Take 001_Bip01 TailNub
+  - first:
+      74: 4630566460218958602
+    second: Bip01 TailNub|Take 001_Tiger
+  - first:
+      74: -1781961281817391353
+    second: Bip01 TailNub|Take 001_tiger 1
+  - first:
+      74: 7273144809113227111
+    second: Bip01 TailNub|Take 001_Tiger(0)
+  - first:
+      74: -2947118294516997083
+    second: tiger 1|Take 001_Bip01 Footsteps
+  - first:
+      74: 8114612989155081301
+    second: tiger 1|Take 001_Bip01 HeadNub
+  - first:
+      74: 9216961744265182217
+    second: tiger 1|Take 001_Bip01 L Finger0Nub
+  - first:
+      74: 4249093656360295334
+    second: tiger 1|Take 001_Bip01 L Toe0Nub
+  - first:
+      74: -2435793317288840035
+    second: tiger 1|Take 001_Bip01 Ponytail1Nub
+  - first:
+      74: -2282319439783934601
+    second: tiger 1|Take 001_Bip01 Ponytail2Nub
+  - first:
+      74: -8880995046453281471
+    second: tiger 1|Take 001_Bip01 R Finger0Nub
+  - first:
+      74: -8004148752651886611
+    second: tiger 1|Take 001_Bip01 R Toe0Nub
+  - first:
+      74: 1130339116792389846
+    second: tiger 1|Take 001_Bip01 TailNub
+  - first:
+      74: 3052155633616815016
+    second: tiger 1|Take 001_Tiger
+  - first:
+      74: 6125544259193116894
+    second: tiger 1|Take 001_tiger 1
+  - first:
+      74: -6882252317232484742
+    second: tiger 1|Take 001_Tiger(0)
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
