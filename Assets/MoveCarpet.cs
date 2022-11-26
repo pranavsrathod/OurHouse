@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+// using Math;
 
 public class MoveCarpet : MonoBehaviour
 {
@@ -9,7 +11,7 @@ public class MoveCarpet : MonoBehaviour
     {
         
     }
-    float speed = 2f;
+    float speed = 1f;
     float height = 5.0f;
 
 void Update()
@@ -17,7 +19,7 @@ void Update()
     // UnityEditor.TransformWorldPlacementJSON:{"position":{"x":-25.51329231262207,"y":3.576918363571167,"z":0.9800000190734863},"rotation":{"x":0.0,"y":0.7071068286895752,"z":0.0,"w":0.7071068286895752},"scale":{"x":4.185451030731201,"y":0.03213699907064438,"z":2.4299182891845705}}
     Vector3 pos = transform.position;
 
-    float newY = Mathf.Sin(Time.time * speed) * 2;
+    float newY = Math.Abs(Mathf.Sin(Time.time * speed));
 
     newY = newY*height;
 
